@@ -10,7 +10,7 @@
 ### Powercord & Vizality
 
 ```sh
-git clone https://github.com/NYRI4/Comfy-git-clone
+git clone https://github.com/Zhaak63/ZhaakTheme-git-clone
 ```
 
 ### BetterDiscord
@@ -19,10 +19,10 @@ git clone https://github.com/NYRI4/Comfy-git-clone
 2. Save the file into your theme folder
 
 ## 🖌️ Customization
-Go into your theme folder > Comfy > support
-- For BetterDiscord : `comfy.theme.css`
+Go into your theme folder > Zhaak > support
+- For BetterDiscord : `Zhaak.theme.css`
 - For Powercord/Vizality : `_custom.css`
 
 ## Credits
 
-Thanks a lot to Snapperito, Harley, Tropical and others peeps that I forgot for the help !
+Zhaak
