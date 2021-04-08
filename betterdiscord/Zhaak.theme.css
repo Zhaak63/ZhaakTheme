@@ -49,11 +49,11 @@
     --colored-emoji: grayscale(0%); /* Change the value to "100%" if you want the basic one */
     
     /* Mention color */
-    --mention-color: #ff4e4e;
+    --mention-color: #4e7cff;
     --unread-color: #4e7cff;
     
     /* Mention color in chat */
-    --mention-color-bar: #4e7cff;
+    --mention-color-bar: #ff0000;
     --mention-color-background: #1a2338;
     --mention-color-hover: #4e7cff;
     
