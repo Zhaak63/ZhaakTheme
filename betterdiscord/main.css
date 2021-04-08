@@ -21,11 +21,11 @@
   padding: 6px;
 }
 .winButtonClose-1HsbF-::after {
-  background-image: url("https://nyri4.github.io/Comfy/assets/close.png");
+  background-image: url("https://Zhaak63.github.io/ZhaakTheme/assets/close.png");
   background-size: 100%;
 }
 .winButtonClose-1HsbF-:hover::after {
-  background-image: url("https://nyri4.github.io/Comfy/assets/close_hover.png");
+  background-image: url("https://Zhaak63.github.io/ZhaakTheme/assets/close_hover.png");
   background-size: 100%;
 }
 
@@ -412,7 +412,7 @@
   background-color: #ffcd4d3d;
 }
 .customEmojiPlaceholder-37iZ_j {
-  background-image: url("https://nyri4.github.io/Comfy/assets/emoji.png");
+  background-image: url("https://Zhaak63.github.io/ZhaakTheme/assets/emoji.png");
 }
 
 /* Custom status */
@@ -952,10 +952,10 @@
   background-repeat: no-repeat;
 }
 .navList-2UtuhC #sticker-picker-tab .navButton-2gQCx-:after {
-  background-image: url("https://nyri4.github.io/Comfy/assets/stickers.png");
+  background-image: url("https://Zhaak63.github.io/ZhaakTheme/assets/stickers.png");
 }
 .navList-2UtuhC #emoji-picker-tab .navButton-2gQCx-:after {
-  background-image: url("https://nyri4.github.io/Comfy/assets/emoji.png");
+  background-image: url("https://Zhaak63.github.io/ZhaakTheme/assets/emoji.png");
 }
 .navList-2UtuhC .navButton-2gQCx- {
   width: 40px;
@@ -1381,13 +1381,13 @@ div:not(.headerFill-adLl4x)
 }
 
 [aria-controls="USER_INFO-tab"]:after {
-  background-image: url("https://nyri4.github.io/Comfy/assets/user.png");
+  background-image: url("https://Zhaak63.github.io/ZhaakTheme/assets/user.png");
 }
 [aria-controls="MUTUAL_GUILDS-tab"]:after {
-  background-image: url("https://nyri4.github.io/Comfy/assets/guild.png");
+  background-image: url("https://Zhaak63.github.io/ZhaakTheme/assets/guild.png");
 }
 [aria-controls="MUTUAL_FRIENDS-tab"]:after {
-  background-image: url("https://nyri4.github.io/Comfy/assets/friend.png");
+  background-image: url("https://Zhaak63.github.io/ZhaakTheme/assets/friend.png");
 }
 
 /* Connetions */
