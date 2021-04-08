@@ -3,7 +3,7 @@
 ---
 
 # Zhaak-Theme
-![Preview](https://i.ibb.co/5cWJGRP/Preview.png)
+![Preview](https://i.imgur.com/T67UU4U.png)
 
 ## 📥 Installation
 
@@ -15,7 +15,7 @@ git clone https://github.com/Zhaak63/ZhaakTheme-git-clone
 
 ### BetterDiscord
 
-1. Go [here](https://i.imgur.com/T67UU4U.png)
+1. Go [here](https://betterdiscord.net/)
 2. Save the file into your theme folder
 
 ## 🖌️ Customization
