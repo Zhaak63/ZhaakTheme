@@ -21,100 +21,102 @@
 .container-6sXIoE { border-bottom: none !important; margin-bottom: 0 !important;}.container-6sXIoE .timeline-UWmgAx { position: relative !important;}.container-6sXIoE .bar-g2ZMIm { position: absolute !important; bottom: -6px !important; left: -8px !important; width: 240px !important; height: 53px !important;margin: 0 !important;-webkit-mask-image: linear-gradient(0.25turn, #0008, #0002) !important;mask-image: linear-gradient(0.25turn, #0008, #0002) !important;border-radius: 0 !important;}.barFill-Dhkah7 { border-radius: 0 !important;}.container-6sXIoE.maximized-vv2Wr0 .bar-g2ZMIm { height: 88px !important;}.container-6sXIoE .button-14-BFJ:hover { background-color: transparent !important;}.barFill-Dhkah7, .timeline-UWmgAx:hover .barFill-Dhkah7 { background: var(--spotify-color) !important;}.inner-WRV6k5 { z-index: 1 !important;}.barText-lmqc5O, .grabber-7sd5f5 { display: none !important;}
 
 :root {
-/* -- Others settings -- */
-
-/* User button spacing */
---user-buttons-spacing: 8px;
-
-/* Avatar position */
---avatar-left: 327.5px;
---avatar-bottom: 26.5px;
-
-/* Avatar roundess */
---avatar-radius: 5px;  
-
-/* Status roundness */
---status-radius: 3px; 
-
-/* Server roundess */
---server-radius: 8px;
-
-/* Avatar width in modals */
---avatar-width: 130px;
-
-/* Change bonfire in modals */
---bonfire: url('https://Zhaak63.github.io/ZhaakTheme/assets/bonfire.gif');
-
-/* Colored emoji picker */
---colored-emoji: grayscale(0%); /* Change the value to "100%" if you want the basic one */
-
-/* Mention color */
---mention-color: #f04747;
---unread-color: #7289da;
-
-/* Mention color in chat */
---mention-color-bar: #C66262;
---mention-color-background: #c662621f;
---mention-color-hover: #c6626226;
-
-/* User settings color (Mute, Deafen and settings) */
---user-buttons-color: #096dc0;
-
-/* Chat buttons color */
---chat-buttons: #6E85D3;
-
-/* Spotify plugin seek bar */
---spotify-color: #1EDC62;
-
-/* Status color */
---online: #43B581;
---iddle: #FAA61A;
---dnd: #F04747;
---offline: #747F8D;
-
-/* Circles next to role names */
---role-circle: 5px;
-
-/* Tooltips */
---tooltips: block; /* Set it to "none" if you don't want it */
-
-/* Discord logo */
---discord-logo: none; /* Set it to "block" if you want it */
-
-}
- 
-.theme-dark {
-    --background-tertiary: #101320;
-    --background-secondary: #1e2233;
-    --background-secondary-alt: #191f2e;
-    --background-primary: #23283d;
-    --background-mobile-primary: #23283d;
-    --background-mobile-secondary: #1e2233;
-    --channeltextarea-background: #191f2e;
-    --background-accent: #6E85D3;
-    --background-message-hover: transparent;
-    --background-modifier-hover: #1c2030;
-    --background-modifier-active: #1a1e2e;
-    --background-modifier-selected: #191f2e;
-    --deprecated-card-bg: #12141f63;
-    --background-floating: #101320;
-    --deprecated-quickswitcher-input-background:#101320;
-    --elevation-low: none;
-    --scrollbar-auto-thumb: #121722;
-    --scrollbar-auto-track: #191f2e;
-    --scrollbar-thin-thumb: #141925;
-    --activity-card-background: #101320;
-}
- 
-.theme-light { /* I don't support light theme it's just for the "Create a server" popup */
-    --background-tertiary: #101320;
-    --background-secondary: #1e2233;
-    --background-secondary-alt: #191f2e;
-    --background-primary: #23283d;
-    --background-accent: #6E85D3;
-    --background-modifier-hover: #262b41;
-    --background-modifier-active: #262b41;
-    --header-primary: #fff;
-    --header-secondary: #b1b5b9;
-    --text-normal: #8e9297;
-}
+    /* -- Others settings -- */
+    
+    /* User button spacing */
+    --user-buttons-spacing: 8px;
+    
+    /* Avatar position */
+    --avatar-left: 327.5px;
+    --avatar-bottom: 26.5px;
+    
+    /* Avatar roundess */
+    --avatar-radius: 23px;  
+    
+    /* Status roundness */
+    --status-radius: 5px; 
+    
+    /* Server roundess */
+    --server-radius: 15px;
+    
+    /* Avatar width in modals */
+    --avatar-width: 120px;
+    
+    /* Change bonfire in modals */
+    --bonfire: url('https://Zhaak63.github.io/ZhaakTheme/assets/bonfire.gif');
+    
+    /* Colored emoji picker */
+    --colored-emoji: grayscale(0%); /* Change the value to "100%" if you want the basic one */
+    
+    /* Mention color */
+    --mention-color: #4e7cff;
+    --unread-color: #4e7cff;
+    
+    /* Mention color in chat */
+    --mention-color-bar: #4e7cff;
+    --mention-color-background: #1a2338;
+    --mention-color-hover: #4e7cff;
+    
+    /* User settings color (Mute, Deafen and settings) */
+    --user-buttons-color: #4e7cff;
+    
+    /* Chat buttons color */
+    --chat-buttons: #4e7cff;
+    
+    /* Spotify plugin seek bar */
+    --spotify-color: #1EDC62;
+    
+    /* Status color */
+    --online: #40c27b;
+    --iddle: #feb813;
+    --dnd: #f65164;
+    --offline: #747F8D;
+    
+    /* Circles next to role names */
+    --role-circle: 5px;
+    
+    /* Tooltips */
+    --tooltips: block; /* Set it to "none" if you don't want it */
+    
+    /* Discord logo */
+    --discord-logo: none; /* Set it to "block" if you want it */
+    
+    }
+     
+    .theme-dark {
+        --background-tertiary: #1e2132;
+        --background-secondary: #171a27;
+        --background-secondary-alt: #1e2132;
+        --background-primary: #171a27; /* fond chat */
+        --background-mobile-primary: #171a27;
+        --background-mobile-secondary: #171a27;
+        --channeltextarea-background: #1e2132;
+        --background-accent: #4e7cff;
+        --background-message-hover: transparent;
+        --background-modifier-hover: #1e2132;
+        --background-modifier-active: #1e2132;
+        --background-modifier-selected: #272b45;
+        --deprecated-card-bg: #272b45;
+        --background-floating: #272b45;
+        --deprecated-quickswitcher-input-background:#18181b;
+        --elevation-low: none;
+        --scrollbar-auto-thumb: #4e7cff;
+        --scrollbar-auto-track: #1e2132;
+        --scrollbar-thin-thumb: #4e7cff;
+        --activity-card-background: #1e2132;
+    }
+     
+    .theme-light { /* I don't support light theme it's just for the "Create a server" popup */
+        --background-tertiary: #1e2132;
+        --background-secondary: #171a27;
+        --background-secondary-alt: #171a27;
+        --background-primary: #1e2132;
+        --background-accent: #1e2132;
+        --background-modifier-hover: #171a27;
+        --background-modifier-active: #171a27;
+        --header-primary: #fff;
+        --header-secondary: #b1b5b9;
+        --text-normal: #8e9297;
+    }
+    
+    
